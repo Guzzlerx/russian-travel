@@ -1,0 +1,8 @@
+.place__paragraph-container {
+    display: grid;
+    margin: 0;
+    grid-template-columns: 1fr;
+    grid-area: paragraph;
+    align-self: flex-start;
+    gap: 26px;
+}
