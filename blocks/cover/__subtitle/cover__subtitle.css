@@ -4,24 +4,14 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 1.25;
-    margin: 0 412px;
-}
-
-@media screen and (max-width: 1024px) {
-    .cover__subtitle {
-        margin: 0 332px 195px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .cover__subtitle {
-        margin: 0 198px 195px;
-    }
+    max-width: 360px;
+    margin: 0;
 }
 
 @media screen and (max-width: 320px) {
     .cover__subtitle {
-        margin: 0 27px;
+        margin: 0 28px;
+        max-width: 288px;
         font-size: 14px;
     }
 }

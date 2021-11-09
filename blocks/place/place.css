@@ -2,7 +2,7 @@
     width: 100%;
     margin-bottom: 80px;
     display: grid;
-    grid-template-columns: 460px 1fr;
+    grid-template-columns: 0.951fr 1fr;
     align-items: flex-end;
     grid-template-areas:
     "title website"
@@ -16,14 +16,14 @@
 
 @media screen and (max-width: 1024px) {
     .place {
-        grid-template-columns: 440px 1fr;
+        grid-template-columns: 0.965fr 1fr;
         gap: 48px 32px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .place {
-        grid-template-columns: 340px 1fr;
+        grid-template-columns: 0.966fr 1fr;
         gap: 48px 28px;
         margin-bottom: 73px;
     }
@@ -32,7 +32,8 @@
 @media screen and (max-width: 320px) {
     .place {
         grid-template-columns: 100%;
-        gap: 30px;
+        margin-bottom: 50px;
+        gap: 32px;
         grid-template-areas:
     "title"
     "website"
