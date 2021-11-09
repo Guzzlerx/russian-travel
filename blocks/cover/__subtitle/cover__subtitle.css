@@ -6,3 +6,22 @@
     line-height: 1.25;
     margin: 0 412px;
 }
+
+@media screen and (max-width: 1024px) {
+    .cover__subtitle {
+        margin: 0 332px 195px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .cover__subtitle {
+        margin: 0 198px 195px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .cover__subtitle {
+        margin: 0 27px;
+        font-size: 14px;
+    }
+}

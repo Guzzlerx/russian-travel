@@ -6,3 +6,9 @@
     font-weight: 400;
     line-height: 1.125;
 }
+
+@media screen and (max-width: 320px) {
+    .footer__link {
+        font-size: 24px;
+    }
+}
