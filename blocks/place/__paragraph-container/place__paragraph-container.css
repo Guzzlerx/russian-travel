@@ -6,3 +6,15 @@
     align-self: flex-start;
     gap: 26px;
 }
+
+@media screen and (max-width: 768px) {
+    .place__paragraph-container {
+        gap: 25px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place__paragraph-container {
+        margin: 0 16px;
+    }
+}

@@ -3,3 +3,21 @@
     display: flex;
     max-height: 100%;
 }
+
+@media screen and (max-width: 1024px) {
+    .cover {
+        margin: 123px 0 93px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .cover {
+        margin: 50px 0 89px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .cover {
+        margin: 29px 0 61px;
+    }
+}
