@@ -15,10 +15,17 @@
     }
 }
 
+@media screen and (max-width: 580px){
+    .cover__title {
+        font-size: 44px;
+        max-width: 325px;
+        margin: 0 0 16px;
+    }
+}
+
 @media screen and (max-width: 320px){
     .cover__title {
         font-size: 32px;
         max-width: 288px;
-        margin: 0 0 16px;
     }
 }

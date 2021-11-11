@@ -8,7 +8,7 @@
     margin: 0;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 580px) {
     .cover__subtitle {
         margin: 0 28px;
         max-width: 288px;

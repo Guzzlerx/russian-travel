@@ -13,7 +13,7 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 580px) {
     .place__paragraph-container {
         margin: 0 16px;
     }
