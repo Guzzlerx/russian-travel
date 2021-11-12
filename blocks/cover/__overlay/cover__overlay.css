@@ -5,6 +5,7 @@
     color: #fff;
     background-image: url("../../../images/cover-trains.jpg");
     background-size: cover;
+    background-position: center;
     min-height: 740px;
     position: relative;
     flex-direction: column;
