@@ -12,7 +12,7 @@ _Адаптивный лендинг._
 
 ## Стек: :wrench:
 
-_CSS, CSS-grid, CSS-flexbox, HTML, Git._
+_CSS, CSS-grid, CSS-flexbox, HTML, БЭМ, Git._
 
 ## Возможные доработки/улучшения: :construction:
 
