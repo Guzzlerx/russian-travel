@@ -20,4 +20,4 @@ _Возможность смены языка повествования._
 
 ## Ссылка: :eyes:
 
-[Кликни меня.](https://guzzlerx.github.io/russian-travel/)
+[Кликни меня](https://guzzlerx.github.io/russian-travel/)
